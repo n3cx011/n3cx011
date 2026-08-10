@@ -30,5 +30,23 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,c,cs,cpp,js,java,html,css,react,nodejs,figma,linux,git,kali,colab" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kali" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=colab" />
 </p>

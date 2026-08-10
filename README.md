@@ -28,14 +28,14 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=n3cx011&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=n3cx011&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?user=n3xc011&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=n3xc011&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <hr/>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=n3cx011&theme=react-dark" alt="Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=n3xc011&theme=react-dark" alt="Activity Graph" />
 </p>
 
 <hr/>

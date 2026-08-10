@@ -16,7 +16,7 @@
 - 💻 Currently pursuing a degree in **Networking and Mobile Computing**
 - 🛡️ Serving as the **President of the Community of Cybersecurity in Horizon (C2SH)** for the 2025/26 term
 - 🔍 Hands-on experience with technical security concepts like **Google Dorking, port scanning, and banner grabbing**
-- - 📱 Interested in designing and developing modern mobile and web applications using tools like **Figma and Python**
+- 📱 Interested in designing and developing modern mobile and web applications using tools like **Figma and Python**
 - 📬 Reach me at **abhishekapremarathne17@gmail.com**
 
 <hr/>

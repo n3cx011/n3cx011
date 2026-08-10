@@ -30,5 +30,5 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,kotlin,c,cs,cpp,js,java,html,css,react,nodejs,springboot,figma,linux,git,kali" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,c,cs,cpp,js,java,html,css,react,nodejs,figma,linux,git,kali,colab" alt="Tech Stack" />
 </p>

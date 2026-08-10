@@ -27,14 +27,6 @@
 
 <hr/>
 
-<p align="center">
-  <a href="https://github.com/n3xc011">
-    <img src="https://github-profile-trophy.vercel.app/?username=n3xc011&theme=radical&no-frame=false&row=1&column=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<hr/>
-
 ## 🛠️ Languages and Tools
 
 <p align="center">

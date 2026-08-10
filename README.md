@@ -28,14 +28,9 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n3xc011&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3xc011&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<hr/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n3xc011&theme=react-dark" alt="Activity Graph" />
+  <a href="https://github.com/n3xc011">
+    <img src="https://github-profile-trophy.vercel.app/?username=n3xc011&theme=radical&no-frame=false&row=1&column=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <hr/>
